@@ -1,0 +1,123 @@
+template=10
+eventname=1030
+b 2L Top=Scott Wallace
+c 2L Bottom=Democrat for Congress, District 1
+
+template=10
+eventname=1031
+b 2L Top=Brian Fitzpatrick
+c 2L Bottom=Republican for Congress, District 1
+
+template=10
+eventname=1032
+b 2L Top=Mary Gay Scanlon
+c 2L Bottom=Democrat for Congress, District 5
+
+template=10
+eventname=1033
+b 2L Top=Pearl Kim
+c 2L Bottom=Republican for Congress, District 5
+
+template=10
+eventname=1034
+b 2L Top=Christina Houlahan
+c 2L Bottom=Democrat for Congress, District 6
+
+template=10
+eventname=1035
+b 2L Top=Greg McCauley
+c 2L Bottom=Republican for Congress, District 6
+
+template=10
+eventname=1036
+b 2L Top=Susan Wild
+c 2L Bottom=Democrat for Congress, District 7
+
+template=10
+eventname=1037
+b 2L Top=Martin Nothstein
+c 2L Bottom=Republican for Congress, District 7
+
+template=10
+eventname=1038
+b 2L Top=Tim Silfies
+c 2L Bottom=Libertarian for Congress, District 7
+
+template=10
+eventname=1039
+b 2L Top=Dennis Wolff
+c 2L Bottom=Democrat for Congress, District 9
+
+template=10
+eventname=1040
+b 2L Top=Dan Meuser
+c 2L Bottom=Republican for Congress, District 9
+
+template=10
+eventname=1041
+b 2L Top=George Scott
+c 2L Bottom=Democrat for Congress, District 10
+
+
+
+
+template=10
+eventname=1042
+b 2L Top=Scott Perry
+c 2L Bottom=Republican for Congress, District 10
+
+template=10
+eventname=1043
+b 2L Top=Ron Dinicola
+c 2L Bottom=Democrat for Congress, District 16
+
+template=10
+eventname=1044
+b 2L Top=George Kelly
+c 2L Bottom=Republican for Congress, District 16
+
+template=10
+eventname=1045
+b 2L Top=Ebert Beeman
+c 2L Bottom=Libertarian for Congress, District 16
+
+template=10
+eventname=1046
+b 2L Top=Conor Lamb
+c 2L Bottom=Democrat for Congress, District 17
+
+template=10
+eventname=1047
+b 2L Top=Keith Rothfus
+c 2L Bottom=Republican for Congress, District 17
+
+template=10
+eventname=1048
+b 2L Top=Brent Ottaway
+c 2L Bottom=Democrat for Congress, District 13
+
+template=10
+eventname=1049
+b 2L Top=John Joyce
+c 2L Bottom=Republican for Congress, District 13
+
+template=10
+eventname=1050
+b 2L Top=Bibiana Boerio
+c 2L Bottom=Democrat for Congress, District 14
+
+template=10
+eventname=1051
+b 2L Top=Guy Reschenthaler
+c 2L Bottom=Republican for Congress, District 14
+
+template=10
+eventname=1052
+b 2L Top=Susan Boser
+c 2L Bottom=Democrat for Congress, District 15
+
+template=10
+eventname=1053
+b 2L Top=Glenn Thompson
+c 2L Bottom=Republican for Congress, District 15
+
